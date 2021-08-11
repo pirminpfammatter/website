@@ -28,7 +28,7 @@ experience:
     location: Zurich, Switzerland
     date_start: '2018-08-01'
     date_end: ''
-    description:
+    description: |2-
         * PhD on intergenerational relations in second-generation immigrants
         * Teaching seminar on research in developmental psychology for Bachelor students 
         * Tutoring developmental psychology for Bachelor students              
@@ -40,7 +40,7 @@ experience:
     location: Schaffhausen
     date_start: '2018-02-01'
     date_end: '2018-07-31'
-    description: 
+    description: |2-
     * Coaching of unemployed people
     * Coaching of long-term unemployed people
 
