@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: PhD Student
+    company: Zurich University of Applied Sciences
+    company_url: 'https://www.zhaw.ch/de/psychologie/forschung/entwicklungs-und-familienpsychologie/'
     location: Zurich
     date_start: '2018-08-01'
     date_end: ''
