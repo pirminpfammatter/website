@@ -1,8 +1,7 @@
 ---
 title: Pirmin Pfammatter
 role: PhD Student in Developmental Psychology
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research focus on family relations in minority families.
 interests:
   - Family Relations
   - Intergenerational Relations
@@ -26,8 +25,8 @@ social:
     icon_pack: fab
     link: https://ch.linkedin.com/in/pirmin-pfammatter
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Zurich University of Applied Sciences
+    url: https://www.zhaw.ch/de/ueber-uns/person/pfam/
 education:
   courses:
     - course: MSc in Psychology
@@ -40,9 +39,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my research I study family relations mainly in immigrant and minority families. Currently, I focus on intergenerational relations, the relation of adult children to their parents. I want to understand in what way growing up in different contexts (e.g., bicultural or as LGBT) is related to intergenerational family dynamics. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
