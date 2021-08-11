@@ -53,7 +53,7 @@ experience:
   - title: Intern Corporate Health Management
     company: Burkhalter Group AG
     company_url: 'https://www.burkhalter.ch/en/'
-    company_logo: burki
+    company_logo: burk
     location: Schaffhausen
     date_start: '2017-06-01'
     date_end: '2017-12-31'
