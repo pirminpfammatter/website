@@ -21,6 +21,10 @@ feature:
   icon_pack: fab
   name: R
 - description: 
+  icon: psi
+  icon_pack: custom
+  name: Psychology
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
