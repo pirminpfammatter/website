@@ -26,7 +26,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-zhaw
+    company_logo: ch-zhaw
     location: California
     date_start: '2021-01-01'
     date_end: ''
