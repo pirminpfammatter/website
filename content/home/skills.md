@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: assets/media/icons/psi
-  icon_pack: "custom"
+  icon: psi
+  icon_pack: assets/media/icons
   name: "Psychology"
 - description: 
   icon: chart-line
