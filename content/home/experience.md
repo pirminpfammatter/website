@@ -26,6 +26,7 @@ experience:
   - title: PhD Student
     company: Zurich University of Applied Sciences
     company_url: 'https://www.zhaw.ch/de/psychologie/forschung/entwicklungs-und-familienpsychologie/'
+    company_logo: zhaw
     location: Zurich
     date_start: '2018-08-01'
     date_end: ''
@@ -39,6 +40,7 @@ experience:
   - title: Psychologist
     company: Work Agency Schaffhausen
     company_url: 'https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Arbeitsamt-3858-DE.html'
+    company_logo: sh
     location: Schaffhausen
     date_start: '2018-01-01'
     date_end: '2018-07-31'
@@ -51,6 +53,7 @@ experience:
   - title: Intern Corporate Health Management
     company: Burkhalter Group AG
     company_url: 'https://www.burkhalter.ch/en/'
+    company_logo: burki
     location: Schaffhausen
     date_start: '2017-06-01'
     date_end: '2017-12-31'
