@@ -35,7 +35,7 @@ education:
     - course: BSc in Psychology
       institution: Zurich University of Applied Sciences
       year: 2015
-email: ""
+email: pirmin_pfammatter@yahoo.de
 superuser: true
 highlight_name: false
 ---
