@@ -25,7 +25,6 @@ experience:
   - title: PhD Student in Developmental Psychology
     company: Zurich University of Applied Sciences
     company_url: 'https://www.zhaw.ch/de/psychologie/forschung/entwicklungs-und-familienpsychologie/'
-    company_logo: org-zhaw
     location: Zurich, Switzerland
     date_start: '2018-08-01'
     date_end: ''
