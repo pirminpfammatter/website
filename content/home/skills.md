@@ -20,10 +20,11 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 
-  icon: psi
-  icon_pack: custom
-  name: Psychology
+- icon: "psi"
+  icon_pack: "custom"
+  name: "Psychology"
+  description: "90%"
+  
 - description: 
   icon: chart-line
   icon_pack: fas
