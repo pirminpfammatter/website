@@ -7,10 +7,10 @@ interests:
   - Intergenerational Relations
   - Immigrants
   - LGBTs
-  - well-being
-  - acculturation
-  - norms
-  - values
+  - Well-being
+  - Acculturation
+  - Norms
+  - Values
 social:
   - icon: envelope
     icon_pack: fas
