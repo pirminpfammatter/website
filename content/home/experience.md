@@ -34,17 +34,21 @@ experience:
         * PhD on intergenerational relations in immigrant families
         * Teaching seminar on reserach in developmental psychology
         * Tutoring developmental psychology for Bachelorstudents
-        * Support for eDidactics at the Psychological Institut
+        * Support for eTeaching and Exams 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  - title: Psychologist
+    company: Work Agency Schaffhausen
+    company_url: 'https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Arbeitsamt-3858-DE.html'
+    location: Schaffhausen
+    date_start: '2018-01-01'
+    date_end: '2018-07-31'
+    description: |2-
+        
+        * Coaching for unemployed adults
+        * Coaching for long-term unemployed people
+        * Public Relations
+        * Administrative Tasks 
+        
 design:
   columns: '2'
 ---
