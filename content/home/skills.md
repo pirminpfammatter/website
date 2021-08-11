@@ -22,8 +22,8 @@ feature:
   name: R
 - description: 20%
   icon: python
-  icon_pack: fas
-  name: Statistics
+  icon_pack: fab
+  name: Python
 - description: 100%
   icon: chart-line
   icon_pack: fas
