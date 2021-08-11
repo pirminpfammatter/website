@@ -47,8 +47,19 @@ experience:
         * Coaching for unemployed adults
         * Coaching for long-term unemployed people
         * Public Relations
-        * Administrative Tasks 
+  
+  - title: Intern Corporate Health Management
+    company: Burkhalter Group AG
+    company_url: 'https://www.burkhalter.ch/en/'
+    location: Schaffhausen
+    date_start: '2017-06-01'
+    date_end: '2017-12-31'
+    description: |2-
         
+        * Coaching for employees
+        * Assesment of current Corporate Health Management 
+        * Developing a broschure on mental health
+              
 design:
   columns: '2'
 ---
