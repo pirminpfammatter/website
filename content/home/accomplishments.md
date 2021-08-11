@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  date_end: "2021-01-04"
+- date_end: "2021-01-04"
   date_start: "2018-09-01"
   description: ""
   organization: University of Basel
   organization_url: https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-Lehre/Learning-and-Teaching/Hochschuldidaktik/Sammelzertifikat-Hochschuldidaktik.html
   title: Certificate Teachting in Higher Education
-
+  url: ""
 
 design:
   columns: '2' 
