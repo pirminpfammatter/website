@@ -24,7 +24,7 @@ social:
     link: https://github.com/pirminpfammatter
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://ch.linkedin.com/in/pirmin-pfammatter
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
