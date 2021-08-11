@@ -30,7 +30,6 @@ experience:
     date_start: '2018-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * PhD on intergenerational relations in immigrant families
         * Teaching seminar on reserach in developmental psychology
