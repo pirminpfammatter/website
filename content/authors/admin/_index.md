@@ -16,8 +16,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: orchid-id
-    icon_pack: fas
+  - icon: orchid
+    icon_pack: ai
     link: https://orcid.org/0000-0002-8648-1073
   - icon: github
     icon_pack: fab
