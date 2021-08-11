@@ -26,16 +26,16 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: ch-zhaw
-    location: California
-    date_start: '2021-01-01'
+    location: Zurich
+    date_start: '2018-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * PhD on intergenerational relations in immigrant families
+        * Teaching seminar on reserach in developmental psychology
+        * Tutoring developmental psychology for Bachelorstudents
+        * Support for eDidactics at the Psychological Institut
         
   - title: Professor of Semiconductor Physics
     company: University X
