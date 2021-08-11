@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: "psi"
+  icon: assets/media/icons/psi
   icon_pack: "custom"
   name: "Psychology"
 - description: 
