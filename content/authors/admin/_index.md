@@ -4,9 +4,14 @@ role: PhD Student in Developmental Psychology
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Family Relations
+  - Intergenerational Relations
+  - Immigrants
+  - LGBTs
+  - well-being
+  - acculturation
+  - norms
+  - values
 social:
   - icon: envelope
     icon_pack: fas
