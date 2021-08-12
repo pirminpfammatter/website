@@ -14,11 +14,11 @@ tags: []
 categories: []
 projects: []
 image:
-  caption: 
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/2gYsZUmockw)'
   focal_point: ""
   placement: 2
   preview_only: false
-
+  filename: motivation.jpg
 ---
 ## Brief input on what motivates people
 
