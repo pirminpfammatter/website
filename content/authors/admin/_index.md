@@ -11,6 +11,9 @@ interests:
   - Acculturation
   - Norms
   - Values
+  - Open Science / Open Data
+  - Statistics
+  - R
 social:
   - icon: envelope
     icon_pack: fas
