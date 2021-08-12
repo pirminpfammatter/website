@@ -1,6 +1,6 @@
 ---
 title: Diversity in intergenerational relations
-summary: An example of using the in-built project page.
+summary: The project in which I write my PhD
 tags:
 - Diversity
 - Intergenerational Solidarity
