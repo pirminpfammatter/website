@@ -8,7 +8,7 @@ authors:
 tags:
   - Diversity
   - Intergenerational
-
+external_link: ""
 
 image:
 
