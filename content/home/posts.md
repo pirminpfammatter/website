@@ -19,9 +19,9 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: ""
+    author: "Susi Fischer"
     category: ""
-    tag: ""
+    tag: "Intergenerationale Solidarität"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
