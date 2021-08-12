@@ -6,7 +6,7 @@ draft: false
 featured: true
 tags:
   - Diversity
-  - Intergenerational
+  - ""
 external_link: https://www.zhaw.ch/de/forschung/forschungsdatenbank/projektdetail/projektid/2029/
 image:
   filename: diversity.jpg
