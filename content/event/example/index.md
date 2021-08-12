@@ -1,24 +1,26 @@
 ---
-title: Example Talk
+title: Talk by Beate Schwarz & Pirmin Pfammatter
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Intergenerational Relationships of Second Generation Immigrants
+event_url: https://www.suz.uzh.ch/de/institut/news/allenews/Kolloquium_Schwarz.html
 
-location: Wowchemy HQ
+location: Institute for Sociology, University of Zurich
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Andreasstrasse 15
+  city: Zurich
+  region: ZH
+  postcode: '8050'
+  country: Switzerland
 
 summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "This talk by Beate Schwarz and Pirmin Pfammatter addressed the intergenerational relations of adult second-generation immigrants.
+Switzerland has a long, thought partially ambivalent relationship with their immigrant groups. This talk adresses the role of orientation 
+toward the heritage and the host culture in subjective well-being and the role of experienced conflicts in the relationship toward parents in the explanation of support, that adult immigrants give to their parents"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-10-06T12:15:00Z"
+date_end: "2020-10-06T13:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,10 +37,6 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
