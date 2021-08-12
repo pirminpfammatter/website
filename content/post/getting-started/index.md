@@ -1,8 +1,6 @@
 ---
 title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+subtitle: ""
 date: 2020-12-13T00:00:00.000Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
@@ -16,12 +14,12 @@ tags: []
 categories: []
 projects: []
 image:
-  caption: ""
+  caption: https://unsplash.com/photos/2gYsZUmockw
   focal_point: ""
   placement: 2
   preview_only: false
   filename: motivation.jpg
 ---
-## Brief input on what motivate[](https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an) people
+## Brief input on what motivates[](https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an) people
 
-## <https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an>s
+## <https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an>
