@@ -2,7 +2,7 @@
 title: What motivates people to go the extra mile?
 date: 2021-08-12T13:36:51.366Z
 draft: false
-featured: false
+featured: true
 image:
   filename: motivation.jpg
   focal_point: Smart
