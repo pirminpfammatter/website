@@ -10,7 +10,6 @@ tags:
   - Intergenerational
 external_link: https://www.zhaw.ch/de/hochschule/
 image:
-  filename: diversity.jpg
   focal_point: Smart
   preview_only: false
 ---
