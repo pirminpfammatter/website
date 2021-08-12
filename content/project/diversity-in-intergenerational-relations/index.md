@@ -9,7 +9,7 @@ tags:
   - Intergenerational
 external_link: https://www.zhaw.ch/de/forschung/forschungsdatenbank/projektdetail/projektid/2029/
 image:
-  filename: featured
+  filename: diversity.jpg
   focal_point: Smart
   preview_only: false
 ---
