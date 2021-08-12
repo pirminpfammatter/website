@@ -12,7 +12,7 @@ address:
   postcode: '8050'
   country: Switzerland
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: A talk on the intergenerational relationships of second-generation immigrants by Beate Schwarz and Pirmin Pfammatter
 abstract: "This talk by Beate Schwarz and Pirmin Pfammatter addressed the intergenerational relations of adult second-generation immigrants.
 Switzerland has a long, thought partially ambivalent relationship with their immigrant groups. This talk adresses the role of orientation 
 toward the heritage and the host culture in subjective well-being and the role of experienced conflicts in the relationship toward parents in the explanation of support, that adult immigrants give to their parents"
