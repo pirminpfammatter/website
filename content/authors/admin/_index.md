@@ -29,6 +29,8 @@ organizations:
     url: https://www.zhaw.ch/de/ueber-uns/person/pfam/
 education:
   courses:
+    - course: PhD in Developmental Psychology (ongoing)
+      institution: University of Basel
     - course: MSc in Psychology
       institution: Zurich University of Applied Sciences
       year: 2017
