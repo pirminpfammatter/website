@@ -4,7 +4,7 @@ date: 2021-08-12T13:36:51.366Z
 draft: false
 featured: true
 image:
-  filename: motivation.jpg
+  filename: ""
   focal_point: Smart
   preview_only: true
 ---
