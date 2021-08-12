@@ -4,7 +4,7 @@ date: 2021-08-12T14:24:52.413Z
 draft: false
 featured: true
 authors:
-  - Beate Schwarz; Pirmin
+  - Beate Schwarz; Pirmin Pfammatter
 tags:
   - Diversity
   - Intergenerational
