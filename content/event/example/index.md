@@ -31,7 +31,7 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: true
-
+image: "talk-suzh.png"
 links:
 url_code: ""
 url_pdf: ""
