@@ -7,6 +7,8 @@ draft: false
 featured: true
 tags:
   - Diversity
+  - Intergenerational Solidarity
+  - Immigrants
 external_link: www.zhaw.ch
 image:
   filename: motivation.jpg
