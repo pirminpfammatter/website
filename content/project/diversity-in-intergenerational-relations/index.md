@@ -6,9 +6,9 @@ draft: false
 featured: true
 tags:
   - Diversity
-  - Intergenerational Solidarity 
+  - Intergenerational Solidarity
   - Immigrants
-external_link: 
+external_link: www.zhaw.ch
 image:
   filename: diversity.jpg
   focal_point: Smart
