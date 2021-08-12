@@ -8,7 +8,7 @@ authors:
 tags:
   - Diversity
   - Intergenerational
-external_link: www.zhaw.ch
+external_link: "https://www.zhaw.ch/de/forschung/forschungsdatenbank/projektdetail/projektid/2029/"
 image:
   caption: Photo by iStock
   focal_point: Smart
