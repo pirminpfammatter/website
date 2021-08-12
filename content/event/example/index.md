@@ -32,7 +32,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-image: static/uploads/talk-suzh
+image: "static/uploads/talk-suzh"
 
 links:
 url_code: ""
