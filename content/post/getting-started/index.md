@@ -20,6 +20,6 @@ image:
   preview_only: false
   filename: motivation.jpg
 ---
-## Brief input on what motivates[](https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an) people
+## Brief input on what motivates people
 
 ## <https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an>
