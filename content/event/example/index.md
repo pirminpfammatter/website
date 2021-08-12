@@ -33,6 +33,7 @@ tags: []
 featured: true
 
 image:
+  url: static/talk-suzh
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
