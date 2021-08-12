@@ -32,8 +32,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-image:
-  url_code: static/talk-suzh
+image: static/talk-suzh
+
   
   focal_point: Right
 
