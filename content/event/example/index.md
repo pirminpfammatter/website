@@ -32,7 +32,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-image: static/talk-suzh.png
+image: 
 
   
   focal_point: Right
