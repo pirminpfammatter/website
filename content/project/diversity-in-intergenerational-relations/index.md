@@ -11,6 +11,7 @@ tags:
 external_link: https://www.zhaw.ch/de/hochschule/
 
 image:
+  filename: diversity.jpg
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
