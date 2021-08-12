@@ -14,7 +14,7 @@ tags: []
 categories: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/2gYsZUmockw)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
