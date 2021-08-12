@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Diversity
+    tag: Diversity
+  - name: Intergenerational Solidarity
+    tag:  Intergenerational Solidarity
   - name: Other
     tag: Demo
 
