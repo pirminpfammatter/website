@@ -7,8 +7,9 @@ authors:
   - BeateSchwarz
 tags:
   - Diversity
-  - Intergenerational
-external_link: https://www.zhaw.ch/de/hochschule/
+  - Intergenerational Solidarity
+  - Immigrants
+
 image:
   filename: diversity.jpg
   focal_point: Smart
