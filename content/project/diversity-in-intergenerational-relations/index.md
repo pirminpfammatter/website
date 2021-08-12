@@ -4,12 +4,11 @@ date: 2021-08-12T14:24:52.413Z
 draft: false
 featured: true
 authors:
-  - BeateSchwarz
+  - Beate Schwarz; author
 tags:
   - Diversity
-  - Intergenerational Solidarity
-  - Immigrants
-
+  - Intergenerational
+external_link: https://www.zhaw.ch/de/hochschule/
 image:
   filename: diversity.jpg
   focal_point: Smart
