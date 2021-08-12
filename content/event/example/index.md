@@ -33,8 +33,8 @@ tags: []
 featured: true
 
 image:
-  url: static/talk-suzh
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  url_code: static/talk-suzh
+  
   focal_point: Right
 
 links:
