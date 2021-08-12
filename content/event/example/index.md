@@ -32,10 +32,6 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-image: 
-
-  
-  focal_point: Right
 
 links:
 url_code: ""
