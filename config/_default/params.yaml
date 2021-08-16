@@ -44,7 +44,7 @@ directions: Enter the tower and the stairs or the elevator to 9th floor. Office 
 main_menu:
   enable: true
   align: l
-  show_logo: false
+  show_logo: true
   show_language: false
   show_day_night: true
   show_search: true
