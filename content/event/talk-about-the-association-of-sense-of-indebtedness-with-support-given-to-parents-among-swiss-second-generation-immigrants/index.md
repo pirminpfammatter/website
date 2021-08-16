@@ -1,6 +1,6 @@
 ---
-title: Talk about the Association of Sense of Indebtedness with Support Given to
-  Parents among Swiss Second-Generation Immigrants
+title: Talk by Pirmin Pfammatter about the association of Sense of Indebtedness with Support given to parents at the OeGP Summer School
+
 abstract: Immigrant parents deal with more challenges and hardships bringing up
   their children in a host country compared to native parents. They work longer
   hours for less money and usually leave their social support network in the
@@ -23,7 +23,7 @@ draft: false
 featured: true
 authors: []
 tags:
-  - Intergenerational
+  - Intergenerational Solidarity
 image:
   filename: featured
   focal_point: Smart
