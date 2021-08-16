@@ -14,6 +14,12 @@ abstract: Immigrant parents deal with more challenges and hardships bringing up
   intergenerational family dynamics in immigrant families.
 location: Summer School Austrian Society for Psychology, OeGP
 
+date: "2021-07-08T19:00:00Z"
+date_end: "2020-07-08T19:15:00Z"
+all_day: false
+
+
+
 draft: false
 featured: true
 authors: []
