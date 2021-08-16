@@ -19,9 +19,9 @@ toward the heritage and the host culture in subjective well-being and the role o
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-10-06T12:15:00Z"
-date_end: "2020-10-06T13:45:00Z"
-all_day: false
+date: "2020-10-06"
+#date_end: "2020-10-06T13:45:00Z"
+all_day: TRUE
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
