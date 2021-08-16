@@ -15,7 +15,8 @@ abstract: Immigrant parents deal with more challenges and hardships bringing up
 location: Summer School Austrian Society for Psychology, OeGP
 
 date: "2021-07-08"
-all_day: false
+#date_end: "2030-06-01T15:00:00Z"
+all_day: TRUE
 
 
 
