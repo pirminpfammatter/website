@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://econtent.hogrefe.com/doi/pdf/10.1027/2698-1866/a000012'
 url_code: ''
 url_dataset: ''
 url_poster: ''
