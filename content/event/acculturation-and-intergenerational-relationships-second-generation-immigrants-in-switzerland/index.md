@@ -1,6 +1,7 @@
 ---
 title: "Acculturation and Intergenerational Relationships: Second-Generation
   Immigrants in Switzerland"
+summary: A talk by Beate Schwarz and Pirmin Pfammatter
 abstract: >
   Second-generation immigrants grew up in the host culture  and develop a strong
   competence in this culture. At the same time, they are still influenced by the
