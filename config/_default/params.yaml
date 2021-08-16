@@ -31,7 +31,6 @@ address:
 coordinates:
   latitude: '47.39041969743242'
   longitude: '8.512392624646191'
-directions: Enter the tower and the stairs or the elevator to 9th floor. Office 9T.13
 
 # contact_links:
 #  - icon: twitter
@@ -130,7 +129,13 @@ map:
   zoom: 15
 marketing:
   google_analytics: ''
-  google_tag_manager: ''
+  google_tag_manager: '<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5WPDZ35');</script>
+<!-- End Google Tag Manager -->'
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
