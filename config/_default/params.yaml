@@ -126,7 +126,7 @@ search:
 map:
   provider: 'mapbox'
   api_key: ''
-  zoom: '10'
+  zoom: '12'
 marketing:
   google_analytics: ''
   google_tag_manager: ''
