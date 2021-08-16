@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-I was asked to give a very short answer, what motivates people. Read my and the answer of other psychologists from the Zurich University of Applied Science at https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an
+I was asked to give a very short answer, what motivates people. Read my and the answer of other psychologists (in German) from the Zurich University of Applied Science at https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an 
