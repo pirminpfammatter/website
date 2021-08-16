@@ -3,7 +3,7 @@ title: Measuring Sense of Indebtedness in Second-Generation Immigrants in Switze
 publication_types:
   - "2"
 authors:
-  - author
+  - admin
   - Beate Schwarz
 draft: false
 featured: false
