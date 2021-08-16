@@ -126,7 +126,7 @@ search:
 map:
   provider: 'google'
   api_key: ''
-  zoom: 15
+  zoom: auto
 marketing:
   google_analytics: ''
   google_tag_manager: ''
