@@ -17,7 +17,7 @@ date: "submitted"
 doi: "10.1111/j.1751-9004.2011.00355.x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "submitted"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
