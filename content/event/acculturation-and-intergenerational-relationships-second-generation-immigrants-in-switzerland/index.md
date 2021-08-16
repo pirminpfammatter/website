@@ -14,7 +14,9 @@ publishDate: 2021-08-16T13:49:32.134Z
 draft: false
 featured: false
 tags:
-  - Intergenerational
+  - Acculturation
+  - Filial Obligations
+  - Intergenerational Solidarity
 image:
   filename: featured.png
   focal_point: Smart
