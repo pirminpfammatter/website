@@ -1,6 +1,6 @@
 ---
 title: The association of Sense of Indebtedness with Support given to parents at the OeGP Summer School
-summry: A talk by Pirmin Pfammatter
+summary: A talk by Pirmin Pfammatter
 abstract: Immigrant parents deal with more challenges and hardships bringing up
   their children in a host country compared to native parents. They work longer
   hours for less money and usually leave their social support network in the
@@ -13,8 +13,8 @@ abstract: Immigrant parents deal with more challenges and hardships bringing up
   support given to parents was found. SIP explains specific aspects of
   intergenerational family dynamics in immigrant families.
 location: Summer School Austrian Society for Psychology, OeGP
-date: 2021-07-08T17:00:34.090Z
-date_end: 2021-07-07T17:20:00.000Z
+date: 2021-07-08T19:00:00.000Z
+date_end: 2021-07-09T19:15:00.000Z
 all_day: false
 event: https://oegp.uni-graz.at/de/
 event_url: https://oegp.uni-graz.at/de/
