@@ -2,7 +2,7 @@
 title: "Acculturation and Intergenerational Relationships: Second-Generation
   Immigrants in Switzerland"
 summary: A talk by Beate Schwarz and Pirmin Pfammatter
-abstract: This talk by Beate Schwarz and Pirmin Pfammatter answers the question, what role normative family support expectations play in explaining the relationship between growing up in two cultures and the support adult immigrants give to their parents
+abstract: This talk by Beate Schwarz and Pirmin Pfammatter adressed the question, what role normative family support expectations play in explaining the relationship between growing up in two cultures and the support adult immigrants give to their parents
 
 location: Conference (online) of the International Association for Cross-Cultural Psychology
 date: 2021-07-26T11:00:00.000Z
