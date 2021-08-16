@@ -24,12 +24,15 @@ email: pirmin_pfammatter@yahoo.de
 address:
   street: Pfingstweidstrasse 96
   city: Zürich
+  region: ZH
   postcode: '8037'
   country: Switzerland
   country_code: CH
 coordinates:
   latitude: '47.39041969743242'
   longitude: '8.512392624646191'
+directions: Enter the tower and the stairs or the elevator to 9th floor. Office 9T.13
+
 # contact_links:
 #  - icon: twitter
 #    icon_pack: fab
