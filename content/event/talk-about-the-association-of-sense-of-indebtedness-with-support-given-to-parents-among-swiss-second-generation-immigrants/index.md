@@ -13,8 +13,6 @@ abstract: Immigrant parents deal with more challenges and hardships bringing up
   support given to parents was found. SIP explains specific aspects of
   intergenerational family dynamics in immigrant families.
 location: Summer School Austrian Society for Psychology, OeGP
-date: 2021-07-08T19:00:00.000Z
-date_end: 2021-07-09T19:15:00.000Z
 all_day: false
 event: https://oegp.uni-graz.at/de/
 event_url: https://oegp.uni-graz.at/de/
