@@ -124,9 +124,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'mapbox'
+  provider: 'google'
   api_key: ''
-  zoom: auto
 marketing:
   google_analytics: ''
   google_tag_manager: ''
