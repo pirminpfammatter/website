@@ -27,7 +27,7 @@ item:
   date_end: "2021-01-04"
   date_start: "2018-09-01"
   description: "Seminars on planing and development of courses, lectures and seminars
-                Seminars on learning theory, learning psychology"
+                |2-Seminars on learning theory, learning psychology"
   organization: University of Basel
   organization_url: https://www.unibas.ch/de
   title: Certificate Teaching in Higher Education
