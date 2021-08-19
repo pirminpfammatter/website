@@ -54,9 +54,22 @@ experience:
     company: Burkhalter Group AG
     company_url: 'https://www.burkhalter.ch/en/'
     company_logo: burk
-    location: Schaffhausen
+    location: Basel
     date_start: '2017-06-01'
     date_end: '2017-12-31'
+    description: |2-
+        
+        * Coaching for employees
+        * Assesment of current Corporate Health Management 
+        * Developing a broschure on mental health
+    
+  - title: Part-time employee in Accounting
+    company: Burkhalter Group AG
+    company_url: 'https://www.burkhalter.ch/en/'
+    company_logo: burk
+    location: Zurich
+    date_start: '2012-12-01'
+    date_end: '2017-05-31'
     description: |2-
         
         * Coaching for employees
