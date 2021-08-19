@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: "2021-01-04"
   date_start: "2018-09-01"
-  description: 
+  description: |2-
         * Constructive Alignment oriented planing and development seminars and lectures
         * Assessment and Grading
         * Supervising Students
@@ -39,7 +39,8 @@ item:
 - certificate_url:
   date_end: "2021-03-19"
   date_start: "2021-03-18"
-  description: Programming Functions and Loops, writing R-packages
+  description: |2-
+        * Programming Functions and Loops, writing R-packages
   organization: Humboldt-Universität zu Berlin
   organization_url: https://www.iqb.hu-berlin.de/
   title: Programming in R/R for advanced users
