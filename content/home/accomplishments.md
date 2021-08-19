@@ -31,13 +31,14 @@ item:
   organization_url: https://www.unibas.ch/de
   title: Certificate Teaching in Higher Education
   url: ""
+  
 item:
   date_end: "2021-03-19"
   date_start: "2018-03-18"
   description: "Programming Functions and Loops, writing R-packages"
   organization: Humboldt-Universität zu Berlin
   organization_url: https://www.iqb.hu-berlin.de/
-  title: Programming in R
+  title: Programming in R/R for advanced users
   url: ""
 design:
   columns: '2' 
