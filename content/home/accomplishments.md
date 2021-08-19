@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: "2021-01-04"
   date_start: "2018-09-01"
-  description: |2-
+  description: 
         Constructive Alignment oriented planing and development seminars and lectures
         Assessment and Grading
         Supervising Students
