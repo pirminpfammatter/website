@@ -24,16 +24,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-  date_end: "2021-01-04"
+ -date_end: "2021-01-04"
   date_start: "2018-09-01"
   description: ""
   organization: University of Basel
   organization_url: https://www.unibas.ch/de
   title: Certificate Teaching in Higher Education
   url: ""
-  
-item:
-  date_end: "2021-03-19"
+
+ -date_end: "2021-03-19"
   date_start: "2018-03-18"
   description: "Programming Functions and Loops, writing R-packages"
   organization: Humboldt-Universität zu Berlin
