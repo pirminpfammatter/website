@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.unibas.ch/dam/jcr:4c64021d-c25e-4bc8-afb3-4b5b3735e4ad/Curriculum_dt_en_mit%20%C3%9Cberschriften_Minor%20Modifications.pdf
+
   date_end: "2021-01-04"
   date_start: "2018-09-01"
   description: ""
@@ -31,7 +31,14 @@ item:
   organization_url: https://www.unibas.ch/de
   title: Certificate Teaching in Higher Education
   url: ""
-
+item:
+  date_end: "2021-03-19"
+  date_start: "2018-03-18"
+  description: "Programming Functions and Loops, writing R-packages"
+  organization: Humboldt-Universität zu Berlin
+  organization_url: https://www.iqb.hu-berlin.de/
+  title: Programming in R
+  url: ""
 design:
   columns: '2' 
 ---
