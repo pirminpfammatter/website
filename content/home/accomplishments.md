@@ -22,24 +22,25 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
- -certificate_url: 
+item: 
+- certificate_url: 
   date_end: "2021-01-04"
   date_start: "2018-09-01"
-  description: ""
+  description: "Seminars on planing and development of courses, lectures and seminars
+                Seminars on learning theory, learning psychology"
   organization: University of Basel
   organization_url: https://www.unibas.ch/de
   title: Certificate Teaching in Higher Education
   url: ""
-  
- -certificate_url: 
+- certificate_url:
   date_end: "2021-03-19"
-  date_start: "2018-03-18"
-  description: "Programming Functions and Loops, writing R-packages"
+  date_start: "2021-03-18"
+  description: Programming Functions and Loops, writing R-packages
   organization: Humboldt-Universität zu Berlin
   organization_url: https://www.iqb.hu-berlin.de/
   title: Programming in R/R for advanced users
-  url: ""
+  url: 
+
 design:
   columns: '2' 
 ---
