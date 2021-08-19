@@ -31,6 +31,7 @@ item:
   organization_url: https://www.unibas.ch/de
   title: Certificate Teaching in Higher Education
   url: ""
+  
  -certificate_url: 
   date_end: "2021-03-19"
   date_start: "2018-03-18"
