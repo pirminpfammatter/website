@@ -26,8 +26,13 @@ item:
 - certificate_url: 
   date_end: "2021-01-04"
   date_start: "2018-09-01"
-  description: "Seminars on planing and development of courses, lectures and seminars"+
-                "Seminars on learning theory, learning psychology"
+  description: |2-
+        
+        * Constructive Alignment oriented planing and development of courses, seminars and lectures
+        * Assessment and Grading
+        * Supervising Students
+        * eTeaching, Blended Learning, Hybrid Teaching
+   
   organization: University of Basel
   organization_url: https://www.unibas.ch/de
   title: Certificate Teaching in Higher Education
