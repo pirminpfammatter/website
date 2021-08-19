@@ -62,7 +62,20 @@ experience:
         * Coaching for employees
         * Assesment of current Corporate Health Management 
         * Developing a broschure on mental health
-              
+    
+  - title: Biology Lab Technician
+    company: F. Hoffmann-La Roche
+    company_url: 'https://www.roche.ch/en.htm'
+    company_logo: roche
+    location: Basel
+    date_start: '2006-08-07'
+    date_end: '2011-06-30'
+    description: |2-
+        
+        * Assitant in Recruitment and Training for Biology Lab Technicians
+        * Research on Arteriosclerosis and and Drug Toxicology
+        * Training to Biology Lab Technician, Specialization in Biochemistry and Molecular Biology
+            
 design:
   columns: '2'
 ---
