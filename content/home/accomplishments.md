@@ -27,10 +27,10 @@ item:
   date_end: "2021-01-04"
   date_start: "2018-09-01"
   description: 
-        Constructive Alignment oriented planing and development seminars and lectures
-        Assessment and Grading
-        Supervising Students
-        eTeaching, Blended Learning, Hybrid Teaching
+        * Constructive Alignment oriented planing and development seminars and lectures
+        * Assessment and Grading
+        * Supervising Students
+        * eTeaching, Blended Learning, Hybrid Teaching"
    
   organization: University of Basel
   organization_url: https://www.unibas.ch/de
