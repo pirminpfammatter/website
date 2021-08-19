@@ -34,8 +34,8 @@ experience:
         
         * PhD on intergenerational relations in immigrant families
         * Teaching seminar on reserach in developmental psychology
-        * Tutoring developmental psychology for Bachelorstudents
-        * Support for eTeaching and Exams 
+        * Tutoring developmental psychology for bachelorstudents
+        * Support for eTeaching and exams 
         
   - title: Psychologist
     company: Work Agency Schaffhausen
@@ -86,9 +86,9 @@ experience:
     date_end: '2011-06-30'
     description: |2-
         
-        * Assitant in Recruitment and Training for Biology Lab Technicians
-        * Research on Arteriosclerosis and and Drug Toxicology
-        * Training to Biology Lab Technician, Specialization in Biochemistry and Molecular Biology
+        * Assitant in recruitment and training for biology lab technicians
+        * Research on Arteriosclerosis and drug Toxicology
+        * Training to biology lab technician, specialization in biochemistry and molecular biology
             
 design:
   columns: '2'
