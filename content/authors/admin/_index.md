@@ -46,4 +46,4 @@ highlight_name: false
 ---
 In my research I study family relations mainly in immigrant and minority families. Currently, I focus on intergenerational relations, the relation of adult children to their parents. I want to understand in what way growing up in different contexts (e.g., bicultural or as LGBT) is related to intergenerational family dynamics. 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
