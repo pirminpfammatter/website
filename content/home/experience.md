@@ -61,6 +61,7 @@ experience:
         
         * Coaching for employees
         * Assesment of current Corporate Health Management 
+        * Courses on Learning and Motivation for employees
         * Developing a broschure on mental health
     
   - title: Part-time employee in Accounting
@@ -72,9 +73,9 @@ experience:
     date_end: '2017-05-31'
     description: |2-
         
-        * Coaching for employees
-        * Assesment of current Corporate Health Management 
-        * Developing a broschure on mental health
+        * Scanning invoices
+        * Verification of invoice accuarcy
+        * Invoice payment
     
   - title: Biology Lab Technician
     company: F. Hoffmann-La Roche
