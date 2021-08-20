@@ -28,7 +28,7 @@ item:
   date_start: "2018-09-01"
   description:  Constructive Alignment, Assessment and Grading, Supervising Students, eTeaching, Blended Learning, Hybrid Teaching
    
-  organization: University of Basel
+  organization: Universität Basel
   organization_url: https://www.unibas.ch/de
   title: Certificate Teaching in Higher Education
   url: ""
@@ -47,6 +47,14 @@ item:
   organization: Università della Svizzera italiana 
   organization_url: https://forscenter.ch/events-training/summer-school/
   title: Structural Equation Modelling
+  url:
+- certificate_url:
+  date_end: "2021-02-23"
+  date_start: "2021-02-23"
+  description: Planning data managment, open science projects, legal aspects, technical aspects, funding for open science projects
+  organization: Universität Basel
+  organization_url: https://www.unibas.ch/en/University/Administration-Services/Vice-President-s-Office-for-Education/Academic-Programs/Graduate-Center.html
+  title: Data management and Open Science
   url:
 design:
   columns: '2' 
