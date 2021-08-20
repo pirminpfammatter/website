@@ -40,7 +40,14 @@ item:
   organization_url: https://www.iqb.hu-berlin.de/
   title: Programming in R/R for advanced users
   url: 
-
+- certificate_url:
+  date_end: "2019-08-30"
+  date_start: "2021-08-16"
+  description: Theory and use of Structural Equation Modelling, cross-sectional and longitudinal SEM, latent mediation, multi-group SEM
+  organization: Università della Svizzera italiana 
+  organization_url: https://forscenter.ch/events-training/summer-school/
+  title: Structural Equation Modelling
+  url:
 design:
   columns: '2' 
 ---
