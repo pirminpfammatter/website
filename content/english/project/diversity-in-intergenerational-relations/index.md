@@ -7,7 +7,7 @@ authors:
   - Beate Schwarz; Pirmin Pfammatter
 tags:
   - Diversity
-  - Intergenerational
+  - Intergenerational Solidarity
 external_link: "https://www.zhaw.ch/de/forschung/forschungsdatenbank/projektdetail/projektid/2029/"
 image:
   caption: Photo by iStock
