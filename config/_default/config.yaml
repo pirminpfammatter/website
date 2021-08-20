@@ -13,7 +13,7 @@ copyright: '© {year} Pirmin Pfammatter'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
