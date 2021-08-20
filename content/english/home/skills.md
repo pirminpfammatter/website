@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: Basic knowledge of datatyps, syntax, loops and object oriented programming
+- description: Basic knowledge of phyton objects, syntax, loops and object oriented programming
   icon: python
   icon_pack: fab
   name: Python
