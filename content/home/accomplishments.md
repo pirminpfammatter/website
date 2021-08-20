@@ -42,7 +42,7 @@ item:
   url: 
 - certificate_url:
   date_end: "2019-08-30"
-  date_start: "2021-08-16"
+  date_start: "2019-08-16"
   description: Theory and use of Structural Equation Modelling, cross-sectional and longitudinal SEM, latent mediation, multi-group SEM
   organization: Università della Svizzera italiana 
   organization_url: https://forscenter.ch/events-training/summer-school/
