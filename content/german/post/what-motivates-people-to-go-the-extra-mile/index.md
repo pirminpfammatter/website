@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: true
 ---
-Ich wurde gefragt, in einem Satz zu erklären, was Menschen zu Höchstleistung motiviert. Lesen Sie meine und die Antwort anderer Psychologinnen und Psychologen der Zürcher Hochschule für Angewandte Wissenschaften hier:https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an 
+Ich wurde gefragt, in einem Satz zu erklären, was Menschen zu Höchstleistung motiviert. Lesen Sie meine und die Antwort anderer Psychologinnen und Psychologen der Zürcher Hochschule für Angewandte Wissenschaften hier: https://www.fhnews.ch/artikel/was-treibt-menschen-zu-hoechstleistungen-an 
