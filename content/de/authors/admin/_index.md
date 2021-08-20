@@ -1,18 +1,20 @@
 ---
 title: Pirmin Pfammatter
-role: Psychologist, PhD Student
-bio: My research focus on family relations in minority families.
+role: Psychologe, Doktorand
+
+bio: In meiner Forschung konzentriere ich mich auf familiäre Beziehungen bei Minderheiten (Eingewanderte, LGBTs)
 interests:
-  - Family Relations
-  - Intergenerational Relations
-  - Immigrants
+  - Familiäre Beziehungen
+  - Intergenerationale Beziehungen
+  - Eingewanderte
   - LGBTs
-  - Well-being
-  - Acculturation
-  - Norms
-  - Values
+  - subjektives Wohlbefinden
+  - psychische Gesundheit
+  - Akkulturation
+  - Aufwachsen in zwei Kulturen
+  - Normen / Wertvorstellungen
   - Open Science / Open Data
-  - Statistics
+  - Statistik
   - R
 social:
   - icon: envelope
@@ -28,17 +30,17 @@ social:
     icon_pack: fab
     link: https://ch.linkedin.com/in/pirmin-pfammatter
 organizations:
-  - name: Zurich University of Applied Sciences
+  - name: Zürcher Hochschule für Angewandte Wissenschaften
     url: https://www.zhaw.ch/de/ueber-uns/person/pfam/
 education:
   courses:
-    - course: PhD in Developmental Psychology (ongoing)
-      institution: University of Basel
-    - course: MSc in Psychology
-      institution: Zurich University of Applied Sciences
+    - course: Doktorat in Entwicklungspsychologie (fortlaufend)
+      institution: Universität Basel, Fakultät für Psychologie
+    - course: MSc in Psychologie
+      institution: Zürcher Hochschule für Angewandte Wissenschaften
       year: 2017
-    - course: BSc in Psychology
-      institution: Zurich University of Applied Sciences
+    - course: BSc in Psychologie
+      institution: Zürcher Hochschule für Angewandte Wissenschaften
       year: 2015
 email: pirmin_pfammatter@yahoo.de
 superuser: true
