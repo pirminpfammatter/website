@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: data wrangling, analysis and visualization
   icon: r-project
   icon_pack: fab
   name: R
-- description: 20%
+- description: Basic knowledge of datatyps, syntax, loops and object oriented programming
   icon: python
   icon_pack: fab
   name: Python
-- description: 100%
+- description: Multivariate analyses, SEM, Multigroup Models, Mediation, Moderation
   icon: chart-line
   icon_pack: fas
   name: Statistics
