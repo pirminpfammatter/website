@@ -60,7 +60,7 @@ experience:
     description: |2-
         
         * Coaching for employees
-        * Assesment of current Corporate Health Management 
+        * Assessment of current Corporate Health Management 
         * Courses on Learning and Motivation for employees
         * Developing a broschure on mental health
     
