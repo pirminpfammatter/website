@@ -10,7 +10,7 @@ en:
 de:
   languageCode: de
  # Uncomment the lines below to configure your website in a second language.
- contentDir: content/german
+  contentDir: content/german
 #zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh
