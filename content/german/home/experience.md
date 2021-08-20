@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: PhD Student
-    company: Zurich University of Applied Sciences
+  - title: Doktorand
+    company: Zürcher Hochschule für Angewandte Wissenschaften
     company_url: 'https://www.zhaw.ch/de/psychologie/forschung/entwicklungs-und-familienpsychologie/'
     company_logo: zhaw
-    location: Zurich
+    location: Zürich
     date_start: '2018-08-01'
     date_end: ''
     description: |2-
         
-        * PhD on intergenerational relations in immigrant families
-        * Teaching seminar on reserach in developmental psychology
-        * Tutoring developmental psychology for bachelorstudents
-        * Support for eTeaching and exams 
+        * Doktorat zu Intergenerationalen Beziehungen in Familien mit Migrationshintergrund
+        * Seminar zu Forschung in der Entwicklungspsychologie mit Fokus auf Migration und psychische Gesundheit
+        * Tutorat in Entwicklungspsychologie für Bachelorstudierende
+        * Support für Onlineunterricht und -Prüfungen
         
-  - title: Psychologist
-    company: Work Agency Schaffhausen
+  - title: Psychologe
+    company: Arbeitsamt des Kantons Schaffhausen
     company_url: 'https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Arbeitsamt-3858-DE.html'
     company_logo: sh
     location: Schaffhausen
@@ -46,11 +46,11 @@ experience:
     date_end: '2018-07-31'
     description: |2-
         
-        * Coaching for unemployed adults
-        * Coaching for long-term unemployed people
+        * Coaching für Arbeitssuchende
+        * Coaching für Langzeitarbeitssuchende
         * Public Relations
   
-  - title: Intern Corporate Health Management
+  - title: Praktikum Betriebliches Gesundheitsmanagement
     company: Burkhalter Group AG
     company_url: 'https://www.burkhalter.ch/en/'
     company_logo: burk
@@ -59,25 +59,25 @@ experience:
     date_end: '2017-12-31'
     description: |2-
         
-        * Coaching for employees
-        * Assesment of current Corporate Health Management 
-        * Courses on Learning and Motivation for employees
-        * Developing a broschure on mental health
+        * Coaching für Mitarbeitende
+        * Analyse des BGM-Bedarfs
+        * Kurse zu Lernen und Motivation für Lernende
+        * Entwicklung einer Broschüre zu psychischer Gesundheit
     
-  - title: Part-time employee in Accounting
+  - title: Teilzeitmitarbeiter in der Buchhaltung
     company: Burkhalter Group AG
     company_url: 'https://www.burkhalter.ch/en/'
     company_logo: burk
-    location: Zurich
+    location: Zürich
     date_start: '2012-12-01'
     date_end: '2017-05-31'
     description: |2-
         
-        * Scanning invoices
-        * Verification of invoice accuarcy
-        * Invoice payment
+        * Rechnungen einlesen
+        * Rechnungskontrolle
+        * Zahlung der Rechnungen
     
-  - title: Biology Lab Technician
+  - title: Pharmabiologielaborant
     company: F. Hoffmann-La Roche
     company_url: 'https://www.roche.ch/en.htm'
     company_logo: roche
@@ -86,9 +86,9 @@ experience:
     date_end: '2011-06-30'
     description: |2-
         
-        * Assitant in recruitment and training for biology lab technicians
-        * Research on Arteriosclerosis and drug Toxicology
-        * Training to biology lab technician, specialization in biochemistry and molecular biology
+        * Assistent in der Auswahl und Ausbildung der Biologielaborantinnen und -Laboranten
+        * Forschung zu Arteriosklerose und Medikamententoxizität
+        * Ausbildung zum Biologielaboranten mit Spezialisierung in Biochemie und Molekularbiologie
             
 design:
   columns: '2'
