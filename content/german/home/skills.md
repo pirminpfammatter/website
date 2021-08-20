@@ -27,7 +27,7 @@ feature:
 - description: Multivariate Verfahren, Strukturgleichungsmodelle, Mehrgruppenanalysen, Mediation, Moderation
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Statistik
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
