@@ -1,10 +1,10 @@
 ---
-title: "Acculturation and Intergenerational Relationships: Second-Generation
-  Immigrants in Switzerland"
-summary: A talk by Beate Schwarz and Pirmin Pfammatter
-abstract: This talk by Beate Schwarz and Pirmin Pfammatter adressed the question, what role normative family support expectations play in explaining the relationship between growing up in two cultures and the support adult immigrants give to their parents
+title: "Akkulturation und Intergenerationale Beziehungen: MigrantInnen der zweiten Generation"
+summary: Vortrag von Beate Schwarz und Pirmin Pfammatter
+abstract: Dieser Vortrag von Beate Schwarz und Pirmin Pfammatter geht der Frage nach, welche Rolle normative Erwartungen an familiäre Unterstütung in der Erklärung der Beziehung zwischen dem Aufwachsen in zwei Kulturen und der Unterstützung, welche erwachsene Kinder ihren Eltern geben spielen.
 
-location: Conference (online) of the International Association for Cross-Cultural Psychology
+
+location: Konferenz (online) der International Association for Cross-Cultural Psychology
 date: 2021-07-26T11:00:00.000Z
 #date_end: 2021-08-16T14:02:57.069Z
 all_day: true
@@ -14,9 +14,9 @@ publishDate: 2021-08-16T13:49:32.134Z
 draft: false
 featured: false
 tags:
-  - Acculturation
-  - Filial Obligations
-  - Intergenerational Solidarity
+  - Akkulturation
+  - Filiale Verpflichtung
+  - Intergenerationale Solidarität
 image:
   filename: featured.png
   focal_point: Smart
