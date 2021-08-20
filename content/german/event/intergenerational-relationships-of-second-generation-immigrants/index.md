@@ -1,21 +1,20 @@
 ---
-title: Intergenerational Relationships of Second Generation Immigrants
+title: Intergenerationale Beziehungen von MigrantInnen der zweiten Generation
 
-event: Intergenerational Relationships of Second Generation Immigrants
+event: Intergenerationale Beziehungen von MigrantInnen der zweiten Generation
 event_url: https://www.suz.uzh.ch/de/institut/news/allenews/Kolloquium_Schwarz.html
 
-location: Institute for Sociology, University of Zurich
+location: Institut für Soziologie, Universität Zürich
 address:
   street: Andreasstrasse 15
-  city: Zurich
+  city: Zürich
   region: ZH
   postcode: '8050'
   country: Switzerland
 
-summary: A talk by Beate Schwarz and Pirmin Pfammatter
-abstract: "This talk by Beate Schwarz and Pirmin Pfammatter addressed the intergenerational relations of adult second-generation immigrants.
-Switzerland has a long, thought partially ambivalent relationship with their immigrant groups. This talk adresses the role of orientation 
-toward the heritage and the host culture in subjective well-being and the role of experienced conflicts in the relationship toward parents in the explanation of support, that adult immigrants give to their parents"
+summary: Vortrag von Beate Schwarz und Pirmin Pfammatter
+
+abstract: "Dieser Vortrag von Beate Schwarz und Pirmin Pfammatter beschäftigt sich mit den Intergenerationalen Beziehungen erwachsener MigrantInnen der zweiten Generation. Die Schweiz hat eine lange, jedoch teilweise ambivalente Beziehung zu ihren Migrationsgruppen. Dieser Vortrag geht auf die Frage ein, welche Rolle die Orientierung an der Herkunfts- und Aufnahmekultur in der Erklärung des subjektiven Wohlbefindens haben, sowie welche Rolle erlebte Konflikte in der Beziehung zu den Eltern in der Erklärung der Unterstützung, welche Erwachsene ihren Eltern geben, spielt."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
