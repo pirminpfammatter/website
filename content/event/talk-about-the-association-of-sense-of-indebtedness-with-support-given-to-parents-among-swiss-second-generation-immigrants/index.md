@@ -1,5 +1,5 @@
 ---
-title: The association of Sense of Indebtedness with Support given to parents at the OeGP Summer School
+title: The association of Sense of Indebtedness with Support given to parents
 summary: A talk by Pirmin Pfammatter
 abstract: Immigrant parents deal with more challenges and hardships bringing up
   their children in a host country compared to native parents. They work longer
