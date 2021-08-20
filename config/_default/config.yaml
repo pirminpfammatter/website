@@ -14,7 +14,7 @@ copyright: '© {year} Pirmin Pfammatter'
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
-removePathAccents: true
+removePathAccents: false
 
 ############################
 ## MODULES
