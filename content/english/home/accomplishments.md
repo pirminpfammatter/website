@@ -51,7 +51,7 @@ item:
 - certificate_url:
   date_end: "2021-02-23"
   date_start: "2021-02-23"
-  description: Planning data managment, open science projects, legal aspects, technical aspects, funding for open science projects
+  description: Planning data managment, Open Science projects, legal and technical aspects, funding for Open Science projects
   organization: Universität Basel
   organization_url: https://www.unibas.ch/en/University/Administration-Services/Vice-President-s-Office-for-Education/Academic-Programs/Graduate-Center.html
   title: Data management and Open Science
