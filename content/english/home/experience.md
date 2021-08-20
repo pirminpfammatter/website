@@ -88,7 +88,7 @@ experience:
         
         * Assitant in recruitment and training for biology lab technicians
         * Research on Arteriosclerosis and drug Toxicology
-        * Training to biology lab technician, specialization in biochemistry and molecular biology
+        * Training as biology lab technician, specialization in biochemistry and molecular biology
             
 design:
   columns: '2'
