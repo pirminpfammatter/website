@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Zusatz&shy;qualifikationen'
 subtitle:
 
 # Date format
@@ -26,16 +26,15 @@ item:
 - certificate_url: 
   date_end: "2021-01-04"
   date_start: "2018-09-01"
-  description:  Constructive Alignment, Assessment and Grading, Supervising Students, eTeaching, Blended Learning, Hybrid Teaching
-   
+  description:  Constructive Alignment, Prüfen und Beurteilen, Betreuung von Studierenden, eDidaktik, Blended Learning, hybrider Unterricht
   organization: Universität Basel
   organization_url: https://www.unibas.ch/de
-  title: Certificate Teaching in Higher Education
+  title: Zertifikat in Hochschuldidaktik (CAS-äquivalent)
   url: ""
 - certificate_url:
   date_end: "2021-03-19"
   date_start: "2021-03-18"
-  description: Programming Functions and Loops, writing R-packages
+  description: Programmierung von Funktionen, Loops, schreiben eigener R-Pakete
   organization: Humboldt-Universität zu Berlin
   organization_url: https://www.iqb.hu-berlin.de/
   title: Programming in R/R for advanced users
@@ -43,15 +42,15 @@ item:
 - certificate_url:
   date_end: "2019-08-30"
   date_start: "2019-08-16"
-  description: Theory and use of Structural Equation Modelling, cross-sectional and longitudinal SEM, latent mediation, multi-group SEM
+  description: Theorie und Anwendung von Strukturgleichungsmodellen auf quer- und längschnittliche Daten, latente Mediationsanalysen, Mehrgruppen-SEM
   organization: Università della Svizzera italiana 
   organization_url: https://forscenter.ch/events-training/summer-school/
-  title: Structural Equation Modelling
+  title: Strukturgleichungsmodelle
   url:
 - certificate_url:
   date_end: "2021-02-23"
   date_start: "2021-02-23"
-  description: Planning data managment, open science projects, legal aspects, technical aspects, funding for open science projects
+  description: Datenmanagementplanung, Open Science Projekte, rechtliche und technische Aspekte, Finanzierung von Open Science Projekten
   organization: Universität Basel
   organization_url: https://www.unibas.ch/en/University/Administration-Services/Vice-President-s-Office-for-Education/Academic-Programs/Graduate-Center.html
   title: Data management and Open Science
