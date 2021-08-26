@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: Grundkenntnisse der Pythonobjekte, Syntax, Loops und Objektorientiertes Programmieren
+- description: Grundkenntnisse der Pythonobjekte, Syntax, Loops und objektorientiertes Programmieren
   icon: python
   icon_pack: fab
   name: Python
