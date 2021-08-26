@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: data wrangling, analysis and visualization
+- description: expert knowledge in data wrangling, -analysis, -simualtion, and visualization
   icon: r-project
   icon_pack: fab
   name: R
