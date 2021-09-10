@@ -1,8 +1,8 @@
 ---
 title: Diversity in Intergenerational Relations
 summary: A talk by Beate Schwarz and Pirmin Pfammatter
-abstract: Growing up in two cultures is a natural aspect of second-generation immigrants development. For most immigrants in Switzerland, their parent's culture of origin values family and intergenerational exchange of support higher than Switzerland's culture. In what way does growing up in two cultures, influence the percevied consensus
-regarding family values, that adult second-generation immigrants perceive. Furthermore, in what way is this consenus connected to the relationship quality to both parents and the amount of support children give to their parents.
+abstract: "Growing up in two cultures is a natural aspect of second-generation immigrants development. For most immigrants in Switzerland, their parent's culture of origin values family and intergenerational exchange of support higher than Switzerland's culture. In what way does growing up in two cultures, influence the percevied consensus
+regarding family values, that adult second-generation immigrants perceive. Furthermore, in what way is this consenus connected to the relationship quality to both parents and the amount of support children give to their parents."
 
 location: Zurich University of Applied Sciences, Winterthur, Switzerland
 
