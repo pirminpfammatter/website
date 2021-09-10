@@ -1,17 +1,12 @@
 ---
 title: Diversity in Intergenerational Relations
 summary: A talk by Beate Schwarz and Pirmin Pfammatter
-abstract: Immigrant parents deal with more challenges and hardships bringing up
-  their children in a host country compared to native parents. They work longer
-  hours for less money and usually leave their social support network in the
-  home country. Growing up, their children experience their parents sacrificing
-  for them, which may foster feelings of indebtedness to the parents (i.e. Sense
-  of Indebtedness, SIP). SIP may predict giving support (i.e. spending time
-  together, helping with household chores) to the parents, when they grow old.
-  In this study, SIP was adapted and applied to a culturally diverse sample of
-  Swiss second-generation immigrants. A strong positive association of SIP with
-  support given to parents was found. SIP explains specific aspects of
-  intergenerational family dynamics in immigrant families.
+abstract: Growing up in two cultures is a natural aspect of second-generation immigrants development.
+For most immigrants in Switzerland, their parent's culture of origin values family and intergenerational
+exchange of support higher than Switzerland's culture. In what way does growing up in two cultures, influence the percevied consensus
+regarding family values, that adult second-generation immigrants perceive. Furthermore, in what way is this consenus
+connected to the relationship quality to both parents and the amount of support children give to their parents.
+
 location: Zurich University of Applied Sciences, Winterthur, Switzerland
 
 date: "2021-09-09"
@@ -24,7 +19,7 @@ draft: false
 featured: true
 authors: []
 tags:
-  - Acculturations
+  - Acculturation
   - Diversity
   - Intergenerational relations
 image:
