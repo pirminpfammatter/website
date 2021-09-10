@@ -9,8 +9,7 @@ location: Zurich University of Applied Sciences, Winterthur, Switzerland
 date: "2021-09-09"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: TRUE
-
-
+event_url: https://www.zhaw.ch/de/ueber-uns/aktuell/veranstaltungen/detailansicht-veranstaltung/event-news/default-ea51a951b5/
 
 draft: false
 featured: true
