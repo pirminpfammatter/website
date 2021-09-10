@@ -12,9 +12,9 @@ abstract: Immigrant parents deal with more challenges and hardships bringing up
   Swiss second-generation immigrants. A strong positive association of SIP with
   support given to parents was found. SIP explains specific aspects of
   intergenerational family dynamics in immigrant families.
-location: Summer School Austrian Society for Psychology, OeGP
+location: Zurich University of Applied Sciences, Winterthur, Switzerland
 
-date: "2021-07-08"
+date: "2021-09-09"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: TRUE
 
@@ -24,7 +24,9 @@ draft: false
 featured: true
 authors: []
 tags:
-  - Intergenerational Solidarity
+  - Acculturations
+  - Diversity
+  - Intergenerational relations
 image:
   filename: featured
   focal_point: Smart
