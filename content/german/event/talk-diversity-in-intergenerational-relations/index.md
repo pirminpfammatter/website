@@ -1,6 +1,6 @@
 ---
 title: Diversität in Generationenbeziehungen
-summary: A talk by Beate Schwarz and Pirmin Pfammatter
+summary: Ein Vortrag von Beate Schwarz und Pirmin Pfammatter
 abstract: "In zwei Kulturen aufzuwachsen, ist ein natürlicher Bestandteil der Entwicklung von erwachsenene Migrantinnen und Migranten der zweiten Generation.
 In der Herkunftskultur der Eltern der meisten Secondos und Secondas in der Schweiz sind familiäre Wertvorstellungen und Austausch von Unterstützung zwischen den Generationen wichtiger als in der Schweizer Kultur. 
 In welche Beziehung steht das Aufwachsen in zwei Kulturen mit dem erlebten Konsens in familiären Wertvorstellungen, welche erwachsene Kinder in der Beziehung zu ihren Eltern erleben. In welchem Zusammenhang steht dieser Konsens zur Beziehungsqualität und der Unterstützung, welche erwachsene Migrantinnen und Migranten ihren Eltern geben?"
