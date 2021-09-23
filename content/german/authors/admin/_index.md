@@ -6,16 +6,15 @@ bio: In meiner Forschung konzentriere ich mich auf familiäre Beziehungen bei Mi
 interests:
   - Familiäre Beziehungen
   - Intergenerationale Beziehungen
-  - Eingewanderte
+  - Menschen mit Migrationshintergrund
   - LGBTs
-  - subjektives Wohlbefinden
-  - psychische Gesundheit
   - Akkulturation
   - Aufwachsen in zwei Kulturen
   - Normen / Wertvorstellungen
+  - psychische Gesundheit
   - Open Science / Open Data
   - Statistik
-  - R
+  - R-Studio, SPSS Statistics, Python
 social:
   - icon: envelope
     icon_pack: fas
