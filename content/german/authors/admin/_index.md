@@ -46,4 +46,5 @@ email: pirmin_pfammatter@yahoo.de
 superuser: true
 highlight_name: false
 ---
-In meiner Forschung konzentriere ich mich auf familiäre Beziehung mit Fokus auf Minderheiten (Eingewanderte und LGBTs). Zur Zeit beschäftige ich mich mit intergenerationalen Beziehungen, den Beziehungen welche erwachsene Kinder zu ihren Eltern haben. Ich möchte verstehen, in welcher das Aufwachsen in verschiedenen Kontexten (z.B. bikulturell oder als LGBT) zu den intergenerationalen Familiendynamiken steht.
+In meiner Forschung konzentriere ich mich auf familiäre Beziehung mit Fokus auf Minderheiten (Eingewanderte und LGBTs). Zur Zeit beschäftige ich mich mit intergenerationalen Beziehungen, den Beziehungen, welche erwachsene Kinder zu ihren Eltern haben. Ich möchte verstehen, in welcher Beziehung das Aufwachsen in verschiedenen Kontexten (z.B. bikulturell oder als LGBT) zu den intergenerationalen Familiendynamiken steht. Dabei liegt der Hauptfokus auf unterschiedlichen Wertvorstellungen beider Generationen, sowie verschiedenen Aspekten der Beziehung (Austausch von Untersützung, Beziehungsqualität, Erleben von Ambivalenz, Gefühle der Verpflichtung, Schuld und Dankbarkeit).
+
