@@ -41,14 +41,14 @@ tags: [LGBT+, filial obligation, support exchange, intergenerational relations]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: Custom Link
+   url: [http://example.org](https://osf.io/nw68k)
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'https://osf.io/nw68k'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
