@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'content/english/publication/belonging-to-the-lgbt+-community-and-intergenerational-relations-the-role-of-filial-obligations/Poster-Belonging-to- the-LGBT-community-and-intergenerational relations.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
