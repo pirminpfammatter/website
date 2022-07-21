@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '(http://Poster-Belonging-to-the-LGBT-community.pdf](https://osf.io/mgyuw/files/osfstorage/62cfbd44c79a4c19159e5aa9)'
+url_pdf: 'https://osf.io/mgyuw/files/osfstorage/62cfbd44c79a4c19159e5aa9'
 url_code: ''
 url_dataset: ''
 url_poster: ''
