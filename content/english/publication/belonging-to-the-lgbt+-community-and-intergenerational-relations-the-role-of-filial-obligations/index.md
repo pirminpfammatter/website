@@ -10,17 +10,17 @@ authors:
 - Beate Schwarz
 
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-06-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-07-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# 7 = Thesis; 8 = Patent; 9 = Conference Poster:
+publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Confernce for the Study of Behavioral Development*
@@ -29,7 +29,7 @@ publication_short: In *ISSBD 2022*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Adult children, who experience strong family norms (i.e., filial obligations) tend to have closer and more intimate intergenerational relations (i.e., support given to parents and relationship quality) with their parents. However, these findings are primarily based on heterosexual and cis-gender adults. According to research, the family norms of Lesbian, Gay, Bisexual, Transgender and other sexual orientation and gender minority (LGBT+) adults tend to be lower compared to sexual orientation and gender identity majority (SGM) adults. Whether these lower filial obligations are associated with the intergenerational relations of LGBT+ adults is currently unknown. Hence, the present study aims to answer the following questions: 1) Do filial obligations mediate the relationship between belonging to the LGBT+ community and support given to parents? 2) Do filial obligations mediate the relationship between belonging to the LGBT+ community and the relationship quality to parents? The sample consisted of n = 135 LGBT+ adults and n = 135 SGM adults. The mean age was M = 28.4 years (SD = 8.54 years). The sample consisted of n = 156 (57.8%) women, n = 100 (37%) men, n = 14 (5.2%) people, who identified as gender non-binary. The measures included a scale on filial obligations, parent-child relationship quality and support given to parents. Structural Equation Modelling showed lower filial obligations in LGBT+ adults. Filial obligations mediated the association between belonging to the LGBT+ community and giving support to parents as well as the relationship quality to the mother, but not the father. In the discussion, the challenges adult LGBT+s face regarding their intergenerational relations will be addressed.
 
 tags: []
 
