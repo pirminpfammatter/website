@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://Poster-Belonging-to-the-LGBT-community-and-intergenerational-relations.pdf'
+url_pdf: 'http://Poster-Belonging-to-the-LGBT-community.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
