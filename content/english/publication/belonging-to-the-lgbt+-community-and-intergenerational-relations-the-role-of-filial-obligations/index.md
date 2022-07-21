@@ -35,15 +35,15 @@ abstract: Adult children, who experience strong family norms (i.e., filial oblig
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [LGBT+, filial obligation, support exchange, intergenerational relations]
+tags: [LGBT+]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
  links:
  - name: Custom Link
-   url: [http://example.org](https://osf.io/nw68k)
+   url: https://osf.io/nw68k
 
 url_pdf: ''
 url_code: ''
@@ -86,17 +86,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-
-----
-title: Belonging to the LGBT+ Community and Intergenerational Relations: The Role of Filial Obligations
-date: 2022-06-20
-draft:false
-featured:true
-image:
-  filename: "featured.jpg"
-  focal_points: Smart
-  preview_only: true
-  
----
-Poster presentation about the relationship LGBT+ adults have with their parents.
