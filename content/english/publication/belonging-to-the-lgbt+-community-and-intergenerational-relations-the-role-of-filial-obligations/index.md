@@ -39,12 +39,12 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 #name: Poster available via Open Science Framework
-#url: [http://example.org]( )
+url: [http://example.org]( )
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'https://osf.io/mgyuw/files/osfstorage/62cfbd44c79a4c19159e5aa9'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
