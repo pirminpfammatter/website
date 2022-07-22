@@ -100,6 +100,7 @@ projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
+  conference contributions: 2
 breadcrumb:
   page_types:
     book: true
