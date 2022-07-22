@@ -1,6 +1,6 @@
 ---
 title: Pirmin Pfammatter
-role: Psychologist, PhD Student
+role: Psychologist, PhD
 bio: My research focus on family relations in minority families.
 interests:
   - Family Relations
