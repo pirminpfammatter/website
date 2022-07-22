@@ -10,8 +10,8 @@ authors:
 - Beate Schwarz
 
 
-date: 2022-06-21
-all_day:true
+date: "2022-06-21"
+all_day: true
 doi: ""
 
 location: Rhodos, Greece
