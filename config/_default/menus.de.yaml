@@ -7,7 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projekte
+  - name: Beiträge 
+    url: '#posts'
+    weight: 20
+- name: Projekte
     url: '#projects'
     weight: 30
   - name: Vorträge
@@ -16,9 +19,7 @@ main:
   - name: Publikationen
     url: '#publications'
     weight: 50
-  - name: Konferenzbeiträge 
-    url: '#posts'
-    weight: 60
+
   - name: Kontakt
     url: '#contact'
     weight: 70
