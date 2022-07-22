@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**iStock**](https://unsplash.com/photos/pLCdAaMFLTE](https://www.istockphoto.com/de/foto/regenbogen-flagge-sonne-wind-und-blauem-himmel-gm177351937-20205279?phrase=lgbt%20pride%20flag)'
   focal_point: ""
   preview_only: false
 
