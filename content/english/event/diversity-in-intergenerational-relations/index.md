@@ -18,7 +18,7 @@ authors: []
 tags:
   - Acculturation
   - Diversity
-  - Intergenerational relations
+  - Intergenerational Relations
 image:
   filename: featured
   focal_point: Smart
