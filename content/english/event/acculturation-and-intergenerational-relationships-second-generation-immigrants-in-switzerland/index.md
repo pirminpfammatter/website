@@ -15,7 +15,7 @@ draft: false
 featured: false
 tags:
   - Acculturation
-  - Filial Obligations
+  - Filial Obligation
   - Intergenerational Solidarity
 image:
   filename: featured.png
