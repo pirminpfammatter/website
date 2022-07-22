@@ -13,8 +13,7 @@ authors:
 date: "2022-06-21"
 all_day: true
 doi: ""
-publication: In *26th Conference of the International Society for Study of Behaviroal Development*
-publication_short: In *ISSBD*
+event: *26th Conference of the International Society for Study of Behaviroal Development, ISSBD*
 location: Rhodos, Greece
 
 # Publication type.
