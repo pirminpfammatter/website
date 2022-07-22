@@ -11,7 +11,6 @@ authors:
 - Beate Schwarz
 
 date: "2022-06-19T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-07-21T00:00:00Z"
