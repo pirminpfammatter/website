@@ -1,6 +1,6 @@
 ---
-title: Pirmin Pfammatter
-role: Psychologe, Doktorand
+title: Dr. phil. Pirmin Pfammatter
+role: Psychologe, Doktorant
 
 bio: In meiner Forschung konzentriere ich mich auf familiäre Beziehungen bei Minderheiten (Eingewanderte, LGBTs)
 interests:
