@@ -77,7 +77,7 @@ show_related:
   post: true
   project: true
   publication: true
-  conferences: true
+
   event: true
 reading_time: true
 section_pager: false
@@ -101,7 +101,6 @@ projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
-  conferences: 2
 breadcrumb:
   page_types:
     book: true
