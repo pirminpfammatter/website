@@ -31,7 +31,7 @@ abstract: Adult children, who experience strong family norms (i.e., filial oblig
 # Summary. An optional shortened abstract.
 summary: short summary
 
-tags: [LGBT; filial obligations]
+tags: [LGBT][Filial Obligation]
 
 # Display this page in the Featured widget?
 featured: true
