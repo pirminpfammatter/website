@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
-  - name: Conference contributions
+  - name: Conference Contributions
     url: '#conferences'
     weight: 60
   - name: Contact
