@@ -31,7 +31,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: short summary
 
-tags: []
+tags: [LGBT]
 
 # Display this page in the Featured widget?
 featured: true
@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**iStock**](https://www.istockphoto.com/de/foto/regenbogen-flagge-sonne-wind-und-blauem-himmel-gm177351937-20205279?phrase=lgbt%20pride%20flag)]'
+  caption: 'Image credit: [**iStock**](https://www.istockphoto.com/de/foto/regenbogen-flagge-sonne-wind-und-blauem-himmel-gm177351937-20205279?phrase=lgbt%20pride%20flag)'
   focal_point: ""
   preview_only: false
 
