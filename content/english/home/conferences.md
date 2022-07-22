@@ -1,7 +1,8 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: featured
+headless: true  # This file represents a page section.
+
+# ... Put Your Section Options Here (title etc.) ...
 
 # This file represents a page section.
 headless: true
