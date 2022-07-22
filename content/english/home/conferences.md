@@ -18,6 +18,7 @@ content:
   page_type: project
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
+  folder: conferences
   # Filter on criteria
   filters:
     author: ""
