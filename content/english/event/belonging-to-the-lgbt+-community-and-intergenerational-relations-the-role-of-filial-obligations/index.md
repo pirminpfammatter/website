@@ -11,7 +11,7 @@ authors:
 
 
 date: 2022-06-21
-allday:true
+all day:true
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
