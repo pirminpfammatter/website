@@ -11,11 +11,10 @@ authors:
 
 
 date: 2022-06-21
-all day:true
+all_day:true
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2022-07-21T00:00:00Z"
+location: Rhodos, Greece
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://osf.io/mgyuw/files/osfstorage/62cfbd44c79a4c19159e5aa9'
+url_pdf: 'https://osf.io/mgyuw/?view_only=650b2d4fdec54600a592742a31d609c8'
 url_code: ''
 url_dataset: ''
 url_poster: ''
