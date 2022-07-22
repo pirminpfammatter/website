@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Beiträge 
+  - name: Posts 
     url: '#posts'
     weight: 20
 - name: Projekte
@@ -21,7 +21,7 @@ main:
     weight: 50
   - name: Kontakt
     url: '#contact'
-    weight: 70
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
