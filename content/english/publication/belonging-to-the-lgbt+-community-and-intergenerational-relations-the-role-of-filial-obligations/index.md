@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://osf.io/mgyuw/files/osfstorage/62cfbd44c79a4c19159e5aa9'
+url_pdf: 'https://osf.io/mgyuw/?view_only=650b2d4fdec54600a592742a31d609c8'
 url_code: ''
 url_dataset: ''
 url_poster: ''
