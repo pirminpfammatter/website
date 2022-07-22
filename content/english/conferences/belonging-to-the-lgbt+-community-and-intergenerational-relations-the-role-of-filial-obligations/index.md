@@ -10,7 +10,6 @@ location: Rhodos, Greece
 date: "2022-06-19"
 date_end: "2022-06-24T15:00:00Z"
 event: International Society for the Study of Behavioral Development
-url_pdf: 'https://osf.io/mgyuw/files/osfstorage/62cfbd44c79a4c19159e5aa9'
 
 image:
   caption: 'Image credit: [**iStock**](https://www.istockphoto.com/de/foto/regenbogen-flagge-sonne-wind-und-blauem-himmel-gm177351937-20205279?phrase=lgbt%20pride%20flag)'
@@ -19,9 +18,9 @@ image:
 
 draft: false
 featured: true
-authors: []
+authors: [Pirmin Pfammatter and Giulia Schmid and Beate Schwarz]
 tags:
-  - LGBT+
+  - LGBT
   - Diversity
   - Filial Obligation
   - Intergenerational Relations
