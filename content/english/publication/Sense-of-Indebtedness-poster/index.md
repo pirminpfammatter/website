@@ -52,10 +52,6 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**iStock**](https://www.istockphoto.com/de/foto/regenbogen-flagge-sonne-wind-und-blauem-himmel-gm177351937-20205279?phrase=lgbt%20pride%20flag)'
-  focal_point: ""
-  preview_only: false
 
 # create .bib file in same folder as this syntax to include citation on website.
 # see: https://www.reed.edu/cis/help/LaTeX/Manually.html for further information, also https://www.bibtex.com/e/entry-types/#inproceedings
