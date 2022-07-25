@@ -58,5 +58,8 @@ image:
   focal_point: ""
   preview_only: false
 
+# create .bib file in same folder as this syntax to include citation on website.
+# see: https://www.reed.edu/cis/help/LaTeX/Manually.html for further information, also 
+
 ---
 
