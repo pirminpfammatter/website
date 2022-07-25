@@ -22,7 +22,7 @@ publishDate: "2022-07-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Poster presented at: 16th SPS Conference on Psychology, 9*
+publication: In *Poster presented at: 16th SPS Conference on Psychology*
 publication_short: In *SPS Conference*
 location: Bern, Switzerland
 
