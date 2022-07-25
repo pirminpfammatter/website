@@ -20,6 +20,8 @@ publishDate: "2022-07-21T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
+# Publication name and optional abbreviated publication name.
+publication: In *Poster presented at: 16th SPS Conference on Psychology*
 
 
 
