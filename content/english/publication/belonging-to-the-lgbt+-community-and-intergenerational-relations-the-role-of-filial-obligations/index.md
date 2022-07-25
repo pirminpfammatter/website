@@ -1,5 +1,5 @@
 ---
-title: "BELONGING TO THE LGBT+ COMMUNITY AND INTERGENERATIONAL RELATIONS: THE ROLE OF FILIAL OBLIGATIONS"
+title: "Belonging to the LGBT+ community and intergenerational relations: The role of filial obligations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
