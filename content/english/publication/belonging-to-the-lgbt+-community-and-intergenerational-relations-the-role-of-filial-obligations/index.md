@@ -7,7 +7,7 @@ title: "Belonging to the LGBT+ community and intergenerational relations: The ro
 authors:
 - admin
 - Giulia Schmid
-- Beate Schwarz
+- & Beate Schwarz
 
 
 date: "2022-06-19T00:00:00Z"
