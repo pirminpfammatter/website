@@ -11,6 +11,9 @@ authors:
 date: "2019-09-09T00:00:00Z"
 doi: ""
 
+# Schedule page publish date (NOT publication's date).
+publishDate: "2022-07-21T00:00:00Z"
+
 
 
 abstract: Given the high percentage of immigrant families in Switzerland, understanding their specific family relationship dynamics is becoming more important. From Kang and Raffaelli (2015), we adopted the questionnaire on sense of indebtedness for our study on intergenerational relationships of immigrant families. Indebtedness is defined as ‘an individual’s recognition of obligations to parents due to his or her parents’ child-centered immigration aspirations and their sacrifice for the sake of their children’. The present study (approx. 350 adult children with at least one parent who immigrated into Switzerland and who is at minimum 60 years old) aims to analyze the measurement quality of our German translation of the questionnaire. We will present item statistics, reliability of the scale and, with respect to validity, results of factor analyses and correlations with measures of filial obligations. The applicability of the questionnaire to the Swiss context will be discussed.
