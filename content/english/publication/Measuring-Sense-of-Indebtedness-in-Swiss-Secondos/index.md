@@ -31,7 +31,9 @@ abstract: Sense of indebtedness toward parents (SIP) refers to feelings of debt 
 # Summary. An optional shortened abstract.
 summary: In this study, we investigated the association of SIP with established measures in the research on intergenerational relations
 
-tags: [Sense of Indebtedness, Filial Obligation, Intergenerational Solidarity, Intergenerational Relations]
+tags: [second-generation immigrants, Intergenerational Relations, Measurement Invariance, Sense of Indebtedness, Social Support]
+
+
 
 # Display this page in the Featured widget?
 featured: false
