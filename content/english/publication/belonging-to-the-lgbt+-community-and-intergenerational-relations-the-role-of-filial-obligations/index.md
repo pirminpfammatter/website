@@ -35,7 +35,7 @@ summary: In this study we investigated the intergenerational relations of adult 
 tags: [LGBT, Filial Obligation, Intergenerational Solidarity, Intergenerational Relations]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
