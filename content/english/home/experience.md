@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: PhD Student
+  - title: PhD Student / Senior Researcher
     company: Zurich University of Applied Sciences
     company_url: 'https://www.zhaw.ch/de/psychologie/forschung/entwicklungs-und-familienpsychologie/'
     company_logo: zhaw
