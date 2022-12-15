@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Doktorand
+  - title: Doktorand / Wissenschaftlicher Mitarbeiter
     company: Zürcher Hochschule für Angewandte Wissenschaften
     company_url: 'https://www.zhaw.ch/de/psychologie/forschung/entwicklungs-und-familienpsychologie/'
     company_logo: zhaw
