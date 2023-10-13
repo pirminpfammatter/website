@@ -33,8 +33,9 @@ organizations:
     url: https://www.zhaw.ch/de/ueber-uns/person/pfam/
 education:
   courses:
-    - course: Doktorat in Entwicklungspsychologie (fortlaufend)
+    - course: Doktorat in Entwicklungspsychologie 
       institution: Universität Basel, Fakultät für Psychologie
+      year: 2023
     - course: MSc in Psychologie
       institution: Zürcher Hochschule für Angewandte Wissenschaften
       year: 2017
